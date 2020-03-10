@@ -1,4 +1,24 @@
-# nbdev template
+# Tutorial for nbdev
+> nbdev tutorial at ICFO
 
-Use this template to more easily create your nbdev project.
+
+This library is pretty small.
+
+## Install
+
+`pip install nbdev_tutorial_JF`
+
+## How to use
+
+There is only one function
+
+```python
+say_hello("Niccolo")
+```
+
+
+
+
+    'hello Niccolo'
+
 
